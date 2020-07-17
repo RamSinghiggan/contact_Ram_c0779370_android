@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">contact_Ram_c0779370_android</string>
+    <string name="address" />
+    <string name="fill_the_details">Fill the details</string>
+    <string name="phone">phone</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+</resources>
